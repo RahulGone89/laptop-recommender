@@ -55,10 +55,6 @@ laptop-recommender/
     └── laptops.csv         # Dataset file
 
 ⚙️ Setup Instructions
-
-      # Clone this repo
-      git clone https://github.com/bhanuprakash227/laptop-recommender.git
-      cd laptop-recommender
       
       # Create virtual environment
       python -m venv venv
@@ -92,4 +88,4 @@ Then open your browser and visit: http://localhost:5000
 
 🧑‍💻 Author
 
-BhanuPrakash
+Rahul,bhanu
